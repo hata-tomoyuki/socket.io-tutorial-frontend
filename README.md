@@ -15,5 +15,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## About
 
-This is frontend part of simple chat app created with next.js and socket.io.
+This is frontend part of simple chat app created with next.js and socket.io.  
 I created this app to learn how to use socket.io for chat app.
